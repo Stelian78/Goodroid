@@ -1,2 +1,2 @@
 # Goodroid
-Proposed solution cointains 2 zip files. One performer. one dispatcher. Currently they are in an each in an archive.
+Proposed solution cointains 2 zip files. One performer, one dispatcher, one report file. Currently they are in an each in an archive.
